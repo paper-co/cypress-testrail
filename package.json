@@ -1,6 +1,6 @@
 {
   "name": "cypress-testrail-paper",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Easy and decoupled Cypress TestRail reporter",
   "private": false,
   "keywords": [
